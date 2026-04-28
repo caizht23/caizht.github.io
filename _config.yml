@@ -23,7 +23,7 @@ repository               : "caizht23/caizht23.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "caizht_photo.jpg"
   name             : "Zhongteng Cai"
   pronouns         : "he/him"  
   bio              : "PhD student at OSU CSE"
