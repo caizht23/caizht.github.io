@@ -11,10 +11,10 @@ Hi! I am a Ph.D. student at The Ohio State University, advised by Prof. Xueru Zh
 
 ### Selected Publications
 
-- **Zhongteng Cai**, Yaxuan Wang, Yang Liu, Xueru Zhang. ``Stabilizing self-consuming diffusion models with latent space filtering.'' *The 40th Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)* (2026).
+- **Zhongteng Cai**, Yaxuan Wang, Yang Liu, Xueru Zhang. ''Stabilizing self-consuming diffusion models with latent space filtering.'' *The 40th Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)* (2026).
 
-- **Zhongteng Cai**, Mohammad Mahdi Khalili, Xueru Zhang. ``Demographic-Agnostic Fairness without Harm.'' *The 8th AAAI Conference on AI, Ethics, and Society (AIES)* (2025).
+- **Zhongteng Cai**, Mohammad Mahdi Khalili, Xueru Zhang. ''Demographic-Agnostic Fairness without Harm.'' *The 8th AAAI Conference on AI, Ethics, and Society (AIES)* (2025).
     
-- **Zhongteng Cai**, Xueru Zhang, Mohammad Mahdi Khalili. ``Privacy-aware Randomized Quantization via Linear Programming.'' *The 40th Conference on Uncertainty in Artificial Intelligence (UAI)* (2024).
+- **Zhongteng Cai**, Xueru Zhang, Mohammad Mahdi Khalili. ''Privacy-aware Randomized Quantization via Linear Programming.'' *The 40th Conference on Uncertainty in Artificial Intelligence (UAI)* (2024).
     
-- **Zhongteng Cai**, Junyuan Liang, Wuhui Chen, Zicong Hong, Hong-Ning Dai, Jianting Zhang, Zibin Zheng. ``Benzene: Scaling Blockchain with Cooperation-Based Sharding.'' *IEEE Transactions on Parallel and Distributed Systems (TPDS)* (2022).
+- **Zhongteng Cai**, Junyuan Liang, Wuhui Chen, Zicong Hong, Hong-Ning Dai, Jianting Zhang, Zibin Zheng. ''Benzene: Scaling Blockchain with Cooperation-Based Sharding.'' *IEEE Transactions on Parallel and Distributed Systems (TPDS)* (2023).
